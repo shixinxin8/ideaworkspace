@@ -8,5 +8,7 @@ public class Test1 {
 
         int c=30;
         int d=40;
+
+        int j=200;
     }
 }
